@@ -5,4 +5,5 @@ getting started with github's jekyll https://help.github.com/articles/setting-up
 ```
 sudo gem install bundler
 bundle install
+jekyll serve
 ```
