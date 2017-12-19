@@ -6,6 +6,21 @@ date:   2015-02-07 04:35:00
 categories: teamocil tmux terminal utility os-x mac-os-x devops 
 ---
 
+
+UPDATE 2017
+===========
+
+Fuck with this ...
+
+lets use iTermocil
+------------------
+
+Found this tool. It is really cool! Purely in iTerm and with yaml's as a config:
+[https://github.com/TomAnthony/itermocil](https://github.com/TomAnthony/itermocil)
+
+
+
+
 Motivation:
 -----------
 
@@ -120,15 +135,3 @@ Switch between Windows:
 
 More commands can be found here: [http://fideloper.com/mac-vim-tmux](http://fideloper.com/mac-vim-tmux)
 
-
-
-UPDATE 2017
-===========
-
-Fuck with this ...
-
-lets use iTermocil
-------------------
-
-Found this tool. It is really cool! Purely in iTerm and with yaml's as a config:
-[https://github.com/TomAnthony/itermocil](https://github.com/TomAnthony/itermocil)
