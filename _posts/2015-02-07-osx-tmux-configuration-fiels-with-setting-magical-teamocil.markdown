@@ -131,4 +131,4 @@ lets use iTermocil
 ------------------
 
 Found this tool. It is really cool! Purely in iTerm and with yaml's as a config:
-https://github.com/TomAnthony/itermocil
+[https://github.com/TomAnthony/itermocil](https://github.com/TomAnthony/itermocil)
