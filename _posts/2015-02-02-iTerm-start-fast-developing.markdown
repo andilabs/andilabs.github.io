@@ -7,6 +7,21 @@ categories: utility os-x mac-os-x terminal iterm
 ---
 ![iterm](/assets/iterm.png)
 
+
+UPDATE 2017
+===========
+
+Fuck with this and fuck even with that [TEAMOCIL - automatically create windows and panes in TMUX with configuration from YAML files!](http://andilabs.github.io/teamocil/tmux/terminal/utility/os-x/mac-os-x/devops/2015/02/07/osx-tmux-configuration-fiels-with-setting-magical-teamocil.html)
+
+lets use iTermocil
+------------------
+
+Found this tool. It is really cool! Purely in iTerm and with yaml's as a config:
+https://github.com/TomAnthony/itermocil
+
+
+
+
 I wonder that for so long time I was doing it manually
 
 1. Open terminal
@@ -37,13 +52,3 @@ DONE
 READ: [TEAMOCIL - automatically create windows and panes in TMUX with configuration from YAML files!](http://andilabs.github.io/teamocil/tmux/terminal/utility/os-x/mac-os-x/devops/2015/02/07/osx-tmux-configuration-fiels-with-setting-magical-teamocil.html)
 
 
-UPDATE 2017
-===========
-
-Fuck with this and fuck even with that [TEAMOCIL - automatically create windows and panes in TMUX with configuration from YAML files!](http://andilabs.github.io/teamocil/tmux/terminal/utility/os-x/mac-os-x/devops/2015/02/07/osx-tmux-configuration-fiels-with-setting-magical-teamocil.html)
-
-lets use iTermocil
-------------------
-
-Found this tool. It is really cool! Purely in iTerm and with yaml's as a config:
-https://github.com/TomAnthony/itermocil
