@@ -119,3 +119,16 @@ Switch between Windows:
     Ctrl-b p  # previous
 
 More commands can be found here: [http://fideloper.com/mac-vim-tmux](http://fideloper.com/mac-vim-tmux)
+
+
+
+UPDATE 2017
+===========
+
+Fuck with this ...
+
+lets use iTermocil
+------------------
+
+Found this tool. It is really cool! Purely in iTerm and with yaml's as a config:
+https://github.com/TomAnthony/itermocil
