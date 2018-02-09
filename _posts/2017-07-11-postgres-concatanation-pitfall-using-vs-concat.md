@@ -1,11 +1,11 @@
 ---
-layout: post
 title: postgres concatanation pitfall using || vs concat
+layout: post
 ---
 
 TL; DR just have look on result of example below, and be aware to make proper casts if using `||`
 
-```
+{% highlight sql %}
 vagrant=> SELECT null || 'foo';
  ?column? 
 ----------
@@ -17,7 +17,8 @@ vagrant=> SELECT concat(null, 'foo');
 --------
  foo
 (1 row)
-```
+{% endhighlight %}
+
 
 
 

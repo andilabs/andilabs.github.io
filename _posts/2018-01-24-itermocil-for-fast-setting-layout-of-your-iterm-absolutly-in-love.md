@@ -17,7 +17,7 @@ setup is as easy as:
 # example
 Here is some example of mine with 4 panes for some django project (server, git, shell_plus, postgres)
 
-```
+{% highlight yaml %}
 windows:
   - name: shopify-store
     root: ~/Projects/shopify-store
@@ -34,4 +34,4 @@ windows:
         - ./manage.py shell_plus
       - commands:
         - /Applications/Postgres.app/Contents/Versions/latest/bin/psql -d shopify_store
-```
+{% endhighlight %}

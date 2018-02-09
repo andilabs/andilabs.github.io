@@ -15,10 +15,13 @@ Handling usage of `.env` files in python (and django) is very easy using that li
 
 # Django
 setting dotenv in django is easy: you need to add it to yours `wsgi.py` and `manage.py` and eventually `celery.py`:
-```
+{% highlight python %}
 import dotenv
-dotenv.load_dotenv(os.path.join(os.path.dirname(os.path.dirname(__file__)), '.env'))
-```
+dotenv.load_dotenv(
+    os.path.join(os.path.dirname(os.path.dirname(__file__)), '.env')
+)
+{% endhighlight %}
+
 
 # Fabric
 you can integrate setting new environment variables on remote machines easily into your `fabfile` see here:
