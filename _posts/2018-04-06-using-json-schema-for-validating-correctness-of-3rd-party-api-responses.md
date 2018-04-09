@@ -21,7 +21,6 @@ example validation:
 from jsonschema import validate
 
 schema = {
-    "title": "Person",
     "type": "object",
     "required": ["department", "employees"],
     "properties": {
