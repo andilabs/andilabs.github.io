@@ -503,7 +503,7 @@ REPO
 
 Full code can be found here:
 
-[https://github.com/andilabs/fuckfinder/](https://github.com/andilabs/fuckfinder/)
+[https://github.com/andilabs/django-tinder](https://github.com/andilabs/django-tinder)
 
 REFERENCE:
 ==========
