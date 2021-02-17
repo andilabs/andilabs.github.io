@@ -27,13 +27,13 @@ categories: blog
  
  4. Setup your screen for grayscale
 
- * >Step 1: Set up Grayscale.
-   >Open your iPhone’s Settings > Accessibility
-   >Select Display & Text Size
-   >Scroll and select Color Filters
-   >Toggle Color Filter On and then check Grayscale
+ * Step 1: Set up Grayscale.
+   Open your iPhone’s Settings > Accessibility
+   Select Display & Text Size
+   Scroll and select Color Filters
+   Toggle Color Filter On and then check Grayscale
 
- * >Step 2: Create the Grayscale shortcut, which lets you easily switch it on and off.
-   >Go to iOS Settings > Accessibility
-   >Scroll down to Accessibility Shortcut > select to check Color Filter
-   >Once configured, triple-click the side button to turn the Grayscale filter on and off. 
+ * Step 2: Create the Grayscale shortcut, which lets you easily switch it on and off.
+   Go to iOS Settings > Accessibility
+   Scroll down to Accessibility Shortcut > select to check Color Filter
+   Once configured, triple-click the side button to turn the Grayscale filter on and off. 
