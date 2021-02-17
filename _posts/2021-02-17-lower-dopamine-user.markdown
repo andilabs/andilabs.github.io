@@ -42,3 +42,4 @@ categories: blog
    Once configured, triple-click the side button to turn the Grayscale filter on and off. 
  ```
  
+5. Use paperback for taking notes, what you "need" to check on the internet. Most of this things afterwards for me turns out to be compulsive and not needed at all.
