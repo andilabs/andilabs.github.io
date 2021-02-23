@@ -43,3 +43,5 @@ categories: blog
  ```
  
 5. Use paperback for taking notes, what you "need" to check on the internet. Most of this things afterwards for me turns out to be compulsive and not needed at all.
+
+6. Use software like https://justgetflux.com/ on your desktop and/or smartphone if you don't own the built-in night-shift options for reducing blue ligth decreasing your melatonin production.
