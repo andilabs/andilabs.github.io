@@ -15,6 +15,7 @@ I know jupyter notebooks (and jupyterhub instance as server for creating and run
 * debugging
 * consuming 3-rd party API-s
 * visualizing data by ploting graphs
+
 ## It comes with plethora of pre-installed useful python libraries for data science and machine learning:
 
 below short-list with links to documentation
