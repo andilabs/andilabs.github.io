@@ -1,6 +1,5 @@
 ---
-title: "Google colab notebooks \U0001F64F❤️ - upload file to google drive with and
-  without persistancy"
+title: upload file to google drive with and without persistancy ∞ Google Colab Snippets
 ---
 
 # file(s) upload

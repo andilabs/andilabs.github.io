@@ -1,5 +1,5 @@
 ---
-title: "Google colab notebooks \U0001F64F❤️ download created file + preview in browser"
+title: download created file + preview in browser ∞ Google Colab Snippets
 ---
 
 imagine you produced some file and want download it to your computer:

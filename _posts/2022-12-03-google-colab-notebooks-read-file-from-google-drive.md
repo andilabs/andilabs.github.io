@@ -1,5 +1,5 @@
 ---
-title: "Google colab  notebooks \U0001F64F❤️ - read file from google drive"
+title: read file from google drive ∞ Google Colab Snippets
 ---
 
 ### Imagine you would like to process some file based next to your noteboook.
