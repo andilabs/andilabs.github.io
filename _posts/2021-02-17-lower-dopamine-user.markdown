@@ -1,10 +1,9 @@
 ---
+title: Lower dopamine smartphone user
 layout: post
-title:  "Lower dopamine smartphone user"
-date:   2021-02-17 10:50:17
+date: '2021-02-17 10:50:17 +0000'
 categories: blog
 ---
-
 
 ## short list
 
@@ -45,3 +44,5 @@ categories: blog
 5. Use paperback for taking notes, what you "need" to check on the internet. Most of this things afterwards for me turns out to be compulsive and not needed at all.
 
 6. Use software like https://justgetflux.com/ on your desktop and/or smartphone if you don't own the built-in night-shift options for reducing blue ligth decreasing your melatonin production.
+
+![](/assets/gray-scale-tunned-ios.png)
