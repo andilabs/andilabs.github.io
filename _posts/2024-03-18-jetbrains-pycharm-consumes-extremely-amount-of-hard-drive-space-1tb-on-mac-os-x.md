@@ -3,10 +3,10 @@ title: Jetbrains PyCharm consumes extremely amount of hard drive space > 1TB on 
   OS X
 ---
 
-just remove that file - replace `<USER_NAME>` with your username:
+just remove that file:
 
 
-`/System/Volumes/Data/Users/<USER_NAME>/Library/Caches/JetBrains/PyCharm2022.3/python_packages/packages_v2.json`
+`rm /System/Volumes/Data/Users/$(whoami)/Library/Caches/JetBrains/PyCharm2022.3/python_packages/packages_v2.json`
 
 
 regullary occuring on Mac OS X  Ventura 13.4.1 (22F82)
